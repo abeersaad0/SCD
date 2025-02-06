@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Alsheddi"
+  given-names: "Abeer"
+  orcid: "https://orcid.org/0009-0000-0446-3262"
+- family-names: "Menai"
+  given-names: "Mohamed El Bachir"
+  orcid: "https://orcid.org/0000-0001-5981-6299"
+title: "AraSCD"
+version: 2.0.4
+date-released: 2025-02-07
+url: "https://github.com/abeersaad0/SCD/tree/main"
