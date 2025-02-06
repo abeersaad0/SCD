@@ -12,6 +12,7 @@ Citing this Work
 -------------
 If you use this software, please cite it as below.
 
+'''bibtex
 @software{Alsheddi_AraSCD_2025,
 author = {Alsheddi, Abeer and Menai, Mohamed El Bachir},
 month = feb,
