@@ -10,8 +10,16 @@ AraSCD contains files belong to one of three classes of instances according to d
 
 Citing this Work
 -------------
-If you wouldd like to cite this work,
+If you use this software, please cite it as below.
 
+@software{Alsheddi_AraSCD_2025,
+author = {Alsheddi, Abeer and Menai, Mohamed El Bachir},
+month = feb,
+title = {{AraSCD}},
+url = {https://github.com/abeersaad0/SCD/tree/main},
+version = {2.0.4},
+year = {2025}
+}
 
 Contact
 -------------
