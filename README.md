@@ -10,34 +10,14 @@ AraSCD contains files belong to one of three classes of instances according to d
 
 Citing this Work
 -------------
-If you use this software, please cite it as below.
-
-'''bibtex
-@misc{Alsheddi_AraSCD_2025,
-author = {Alsheddi, Abeer and Menai, Mohamed El Bachir},
-month = feb,
-title = {{AraSCD}},
-url = {https://github.com/abeersaad0/SCD/tree/main},
-version = {2.0.4},
-year = {2025}
-}
-
-## BibTeX Citation
-
-If you use PySAL-spaghetti in a scientific publication, we would appreciate using the following citations:
+If you use AraSCD, we would appreciate using the following citations:
 
 ```bibtex
-@article{Gaboardi2021,
-    doi       = {10.21105/joss.02826},
-    url       = {https://doi.org/10.21105/joss.02826},
-    year      = {2021},
-    publisher = {The Open Journal},
-    volume    = {6},
-    number    = {62},
-    pages     = {2826},
-    author    = {James D. Gaboardi and Sergio Rey and Stefanie Lumnitz},
-    title     = {spaghetti: spatial network analysis in PySAL},
-    journal   = {Journal of Open Source Software}
+@misc{Alsheddi_AraSCD_2025,
+    author = {Alsheddi, Abeer and Menai, Mohamed El Bachir},
+    title     = {AraSCD},
+    url = {https://github.com/abeersaad0/SCD/tree/main},
+    year      = {2025}
 }
 
 @misc{Gaboardi2018,
