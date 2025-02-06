@@ -8,6 +8,11 @@ AraSCD contains files belong to one of three classes of instances according to d
 1. Text files (*.txt): raw Arabic text.
 2. JSON files (*.json): metadata representing ground-truth files.
 
+Contact
+-------------
+Questions or feedback?
+Email: abeer.alsheddi@gmail.com
+
 Citing this Work
 -------------
 If you use AraSCD, we would appreciate using the following citations:
@@ -18,8 +23,3 @@ If you use AraSCD, we would appreciate using the following citations:
     url = {https://github.com/abeersaad0/SCD/tree/main},
     year      = {2025}
 }
-
-Contact
--------------
-Questions or feedback?
-Email: abeer.alsheddi@gmail.com
