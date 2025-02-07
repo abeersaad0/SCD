@@ -1,0 +1,92 @@
+{
+  "authors":3,
+  "changes":[
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "era_topic":[
+    "Geography",
+    "Abbasid",
+    "Abbasid",
+    "Abbasid",
+    "Modern",
+    "Geography",
+    "Modern",
+    "Geography",
+    "Modern"
+  ],
+  "id":[
+    "4_73",
+    "3_115",
+    "3_157",
+    "3_682",
+    "2_115",
+    "4_395",
+    "2_947",
+    "4_324",
+    "2_1073"
+  ],
+  "level":"easy",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "أبو القاسم",
+    "ابن الرومي",
+    "ابن الرومي",
+    "ابن الرومي",
+    "جبران خليل جبران",
+    "أبو القاسم",
+    "جبران خليل جبران",
+    "أبو القاسم",
+    "جبران خليل جبران"
+  ],
+  "paragraph-author-numbers":[
+    4,
+    3,
+    3,
+    3,
+    2,
+    4,
+    2,
+    4,
+    2
+  ],
+  "paragraph-author-numbers-transliteration":[
+    ">bw AlqAsm",
+    "Abn Alrwmy",
+    "Abn Alrwmy",
+    "Abn Alrwmy",
+    "jbrAn xlyl jbrAn",
+    ">bw AlqAsm",
+    "jbrAn xlyl jbrAn",
+    ">bw AlqAsm",
+    "jbrAn xlyl jbrAn"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet"
+  ]
+}

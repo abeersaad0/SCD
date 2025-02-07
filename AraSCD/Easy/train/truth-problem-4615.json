@@ -1,0 +1,76 @@
+{
+  "authors":2,
+  "changes":[
+    1,
+    1,
+    0,
+    1,
+    1,
+    1
+  ],
+  "era_topic":[
+    "Medicine",
+    "Modern",
+    "Medicine",
+    "Medicine",
+    "Modern",
+    "Medicine",
+    "Modern"
+  ],
+  "id":[
+    "1_12",
+    "2_13",
+    "1_350",
+    "1_771",
+    "2_77",
+    "1_1077",
+    "2_573"
+  ],
+  "level":"easy",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "بن سينا",
+    "جبران خليل جبران",
+    "بن سينا",
+    "بن سينا",
+    "جبران خليل جبران",
+    "بن سينا",
+    "جبران خليل جبران"
+  ],
+  "paragraph-author-numbers":[
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2
+  ],
+  "paragraph-author-numbers-transliteration":[
+    "Ab nsynA",
+    "jbrAn xlyl jbrAn",
+    "Ab nsynA",
+    "Ab nsynA",
+    "jbrAn xlyl jbrAn",
+    "Ab nsynA",
+    "jbrAn xlyl jbrAn"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet"
+  ]
+}

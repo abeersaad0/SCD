@@ -1,0 +1,84 @@
+{
+  "authors":3,
+  "changes":[
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "era_topic":[
+    "Medicine",
+    "Geography",
+    "Medicine",
+    "nan",
+    "Medicine",
+    "nan",
+    "Geography",
+    "nan"
+  ],
+  "id":[
+    "1_1711",
+    "4_365",
+    "1_18",
+    "5_94",
+    "1_1751",
+    "5_30",
+    "4_30",
+    "5_51"
+  ],
+  "level":"easy",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "بن سينا",
+    "أبو القاسم",
+    "بن سينا",
+    "محمد علي صالح",
+    "بن سينا",
+    "محمد علي صالح",
+    "أبو القاسم",
+    "محمد علي صالح"
+  ],
+  "paragraph-author-numbers":[
+    1,
+    4,
+    1,
+    5,
+    1,
+    5,
+    4,
+    5
+  ],
+  "paragraph-author-numbers-transliteration":[
+    "Ab nsynA",
+    ">bw AlqAsm",
+    "Ab nsynA",
+    "mHmd Ely SAlH",
+    "Ab nsynA",
+    "mHmd Ely SAlH",
+    ">bw AlqAsm",
+    "mHmd Ely SAlH"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet"
+  ]
+}

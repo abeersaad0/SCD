@@ -1,0 +1,100 @@
+{
+  "authors":2,
+  "changes":[
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "era_topic":[
+    "Medicine",
+    "Medicine",
+    "Medicine",
+    "Medicine",
+    "Medicine",
+    "nan",
+    "nan",
+    "nan",
+    "nan",
+    "nan"
+  ],
+  "id":[
+    "1_2",
+    "1_310",
+    "1_1983",
+    "1_130",
+    "1_638",
+    "5_15",
+    "5_153",
+    "5_194",
+    "5_358",
+    "5_128"
+  ],
+  "level":"easy",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus",
+    "Saudi Newspapers Corpus",
+    "Saudi Newspapers Corpus",
+    "Saudi Newspapers Corpus",
+    "Saudi Newspapers Corpus"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "بن سينا",
+    "بن سينا",
+    "بن سينا",
+    "بن سينا",
+    "بن سينا",
+    "محمد علي صالح",
+    "محمد علي صالح",
+    "محمد علي صالح",
+    "محمد علي صالح",
+    "محمد علي صالح"
+  ],
+  "paragraph-author-numbers":[
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "paragraph-author-numbers-transliteration":[
+    "Ab nsynA",
+    "Ab nsynA",
+    "Ab nsynA",
+    "Ab nsynA",
+    "Ab nsynA",
+    "mHmd Ely SAlH",
+    "mHmd Ely SAlH",
+    "mHmd Ely SAlH",
+    "mHmd Ely SAlH",
+    "mHmd Ely SAlH"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet"
+  ]
+}

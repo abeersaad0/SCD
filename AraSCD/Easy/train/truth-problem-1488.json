@@ -1,0 +1,84 @@
+{
+  "authors":2,
+  "changes":[
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
+    1
+  ],
+  "era_topic":[
+    "Geography",
+    "Medicine",
+    "Geography",
+    "Geography",
+    "Medicine",
+    "Medicine",
+    "Geography",
+    "Medicine"
+  ],
+  "id":[
+    "4_14",
+    "1_542",
+    "4_217",
+    "4_381",
+    "1_17",
+    "1_720",
+    "4_18",
+    "1_1370"
+  ],
+  "level":"easy",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "أبو القاسم",
+    "بن سينا",
+    "أبو القاسم",
+    "أبو القاسم",
+    "بن سينا",
+    "بن سينا",
+    "أبو القاسم",
+    "بن سينا"
+  ],
+  "paragraph-author-numbers":[
+    4,
+    1,
+    4,
+    4,
+    1,
+    1,
+    4,
+    1
+  ],
+  "paragraph-author-numbers-transliteration":[
+    ">bw AlqAsm",
+    "Ab nsynA",
+    ">bw AlqAsm",
+    ">bw AlqAsm",
+    "Ab nsynA",
+    "Ab nsynA",
+    ">bw AlqAsm",
+    "Ab nsynA"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://shamela.ws"
+  ]
+}

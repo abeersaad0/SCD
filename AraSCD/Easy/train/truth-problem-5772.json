@@ -1,0 +1,92 @@
+{
+  "authors":2,
+  "changes":[
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "era_topic":[
+    "Medicine",
+    "Medicine",
+    "nan",
+    "Medicine",
+    "nan",
+    "Medicine",
+    "nan",
+    "Medicine",
+    "nan"
+  ],
+  "id":[
+    "1_2",
+    "1_1582",
+    "5_21",
+    "1_15",
+    "5_357",
+    "1_1738",
+    "5_265",
+    "1_1204",
+    "5_111"
+  ],
+  "level":"easy",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "بن سينا",
+    "بن سينا",
+    "محمد علي صالح",
+    "بن سينا",
+    "محمد علي صالح",
+    "بن سينا",
+    "محمد علي صالح",
+    "بن سينا",
+    "محمد علي صالح"
+  ],
+  "paragraph-author-numbers":[
+    1,
+    1,
+    5,
+    1,
+    5,
+    1,
+    5,
+    1,
+    5
+  ],
+  "paragraph-author-numbers-transliteration":[
+    "Ab nsynA",
+    "Ab nsynA",
+    "mHmd Ely SAlH",
+    "Ab nsynA",
+    "mHmd Ely SAlH",
+    "Ab nsynA",
+    "mHmd Ely SAlH",
+    "Ab nsynA",
+    "mHmd Ely SAlH"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet"
+  ]
+}

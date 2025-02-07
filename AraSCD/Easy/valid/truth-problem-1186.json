@@ -1,0 +1,100 @@
+{
+  "authors":4,
+  "changes":[
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0
+  ],
+  "era_topic":[
+    "Medicine",
+    "Geography",
+    "Abbasid",
+    "Geography",
+    "Medicine",
+    "Abbasid",
+    "nan",
+    "Geography",
+    "nan",
+    "nan"
+  ],
+  "id":[
+    "1_1160",
+    "4_557",
+    "3_507",
+    "4_523",
+    "1_507",
+    "3_1058",
+    "5_49",
+    "4_507",
+    "5_227",
+    "5_147"
+  ],
+  "level":"easy",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Saudi Newspapers Corpus",
+    "Classical Arabic Dictionary",
+    "Saudi Newspapers Corpus",
+    "Saudi Newspapers Corpus"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "بن سينا",
+    "أبو القاسم",
+    "ابن الرومي",
+    "أبو القاسم",
+    "بن سينا",
+    "ابن الرومي",
+    "محمد علي صالح",
+    "أبو القاسم",
+    "محمد علي صالح",
+    "محمد علي صالح"
+  ],
+  "paragraph-author-numbers":[
+    1,
+    4,
+    3,
+    4,
+    1,
+    3,
+    5,
+    4,
+    5,
+    5
+  ],
+  "paragraph-author-numbers-transliteration":[
+    "Ab nsynA",
+    ">bw AlqAsm",
+    "Abn Alrwmy",
+    ">bw AlqAsm",
+    "Ab nsynA",
+    "Abn Alrwmy",
+    "mHmd Ely SAlH",
+    ">bw AlqAsm",
+    "mHmd Ely SAlH",
+    "mHmd Ely SAlH"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet"
+  ]
+}
