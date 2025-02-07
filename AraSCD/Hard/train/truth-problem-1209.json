@@ -1,0 +1,84 @@
+{
+  "authors":4,
+  "changes":[
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "era_topic":[
+    "Abbasid",
+    "Unknown",
+    "Abbasid",
+    "Abbasid",
+    "Abbasid",
+    "Abbasid",
+    "Abbasid",
+    "Unknown"
+  ],
+  "id":[
+    "1_788",
+    "4_41",
+    "3_698",
+    "5_41",
+    "3_41",
+    "5_110",
+    "1_4",
+    "4_308"
+  ],
+  "level":"hard",
+  "linguistic_resource":[
+    "Arabic Poetry Dataset",
+    "Unknown",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Unknown"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "ابن الرومي",
+    "محيي الدين  بن عربي",
+    "البحتري",
+    "الشريف الرضي",
+    "البحتري",
+    "الشريف الرضي",
+    "ابن الرومي",
+    "محيي الدين  بن عربي"
+  ],
+  "paragraph-author-numbers":[
+    1,
+    4,
+    3,
+    5,
+    3,
+    5,
+    1,
+    4
+  ],
+  "paragraph-author-numbers-transliteration":[
+    "Abn Alrwmy",
+    "mHyy Aldyn bn Erby",
+    "AlbHtry",
+    "Al$ryf AlrDy",
+    "AlbHtry",
+    "Al$ryf AlrDy",
+    "Abn Alrwmy",
+    "mHyy Aldyn bn Erby"
+  ],
+  "url":[
+    "https://github.com/inparallel/SaudiNewsNet",
+    "Unknown",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "Unknown"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "authors":4,
+  "changes":[
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1
+  ],
+  "era_topic":[
+    "Literature",
+    "Abbasid",
+    "Abbasid",
+    "Literature",
+    "Literature",
+    "Abbasid",
+    "Literature",
+    "Abbasid",
+    "Literature"
+  ],
+  "id":[
+    "4_6663",
+    "3_46",
+    "5_596",
+    "1_4",
+    "1_146",
+    "3_107",
+    "4_46",
+    "5_46",
+    "1_1419"
+  ],
+  "level":"medium",
+  "linguistic_resource":[
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary",
+    "Arabic Poetry Dataset",
+    "Classical Arabic Dictionary"
+  ],
+  "multi-author":1,
+  "paragraph-author-names":[
+    "أبو عمر",
+    "البحتري",
+    "مهيار الديلمي",
+    "يحيى الجريرى",
+    "يحيى الجريرى",
+    "البحتري",
+    "أبو عمر",
+    "مهيار الديلمي",
+    "يحيى الجريرى"
+  ],
+  "paragraph-author-numbers":[
+    4,
+    3,
+    5,
+    1,
+    1,
+    3,
+    4,
+    5,
+    1
+  ],
+  "paragraph-author-numbers-transliteration":[
+    ">bw Emr",
+    "AlbHtry",
+    "mhyAr Aldylmy",
+    "yHyY AljryrY",
+    "yHyY AljryrY",
+    "AlbHtry",
+    ">bw Emr",
+    "mhyAr Aldylmy",
+    "yHyY AljryrY"
+  ],
+  "url":[
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws",
+    "https://github.com/inparallel/SaudiNewsNet",
+    "https://shamela.ws"
+  ]
+}
