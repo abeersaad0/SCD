@@ -10,4 +10,4 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Set the command to run your script
-CMD ["python", "pan2025_dataset1.py"]
+CMD ["python", "pan2025_dataset1.py", "-i", "$inputDataset", "-o", "$outputDir"]
