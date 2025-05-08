@@ -1,6 +1,0 @@
-torch
-transformers
-torch-geometric
-numpy
-tqdm
-scikit-learn
