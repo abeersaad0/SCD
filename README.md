@@ -8,6 +8,21 @@ AraSCD contains files belong to one of three classes of instances according to d
 1. Text files (*.txt): raw Arabic text.
 2. JSON files (*.json): metadata representing ground-truth files.
 
+Subsets
+-------------
+AraSCD was designed into three subsets: easy, medium, and hard instances.
+1. Easy instances cover all resources. Two poets: one from the Abbasid era and another from the Modern era. A medicine book and a geography book. The last author is a newspaper writer. 
+2. Medium instances cover two resources. three poets from the Abbasid era and two literature books. 
+3. Hard instances cover resource. Five poets during the Abbasid era.
+
+
+Properties
+-------------
+AraSCD satisfies balance, distinctness, and variety.  
+![alt text](https://i.postimg.cc/5HhG6gyG/Ara-SCD-properties1.png)
+![alt text](https://i.postimg.cc/wyDrJNRb/Ara-SCD-properties2.png)
+![alt text](https://i.postimg.cc/Fd06cSkD/Ara-SCD-properties3.png)
+
 Contact
 -------------
 Questions or feedback?
