@@ -12,7 +12,7 @@ Subsets
 -------------
 AraSCD was designed into three subsets: easy, medium, and hard instances.
 1. Easy instances cover all resources. Two poets: one from the Abbasid era and another from the Modern era. A medicine book and a geography book. The last author is a newspaper writer. 
-2. Medium instances cover two resources. three poets from the Abbasid era and two literature books. 
+2. Medium instances cover two resources. Three poets from the Abbasid era and two literature books. 
 3. Hard instances cover resource. Five poets during the Abbasid era.
 
 
